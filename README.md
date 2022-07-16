@@ -10,31 +10,31 @@ This analysis revolves around utilizing the .loc method and operators for creati
 
 Old Summary
 
-![alt text](Resources/old district_summary_df.PNG)
+![alt text](Resources/old_district_summary_df.PNG)
 
 New Summary
 
-![alt text](Resources/new district_summary_df.PNG)
+![alt text](Resources/new_district_summary_df.PNG)
 
 * The overall passing percentage of the Thomas High School summary decreased by about .3%
 
 Old Summary
 
-![alt text](Resources/old per_school_summary_df.PNG)
+![alt text](Resources/old_per_school_summary_df.PNG)
 
 New Summary
 
-![alt text](Resources/new per_school_summary_df.PNG)
+![alt text](Resources/new_per_school_summary_df.PNG)
 
 * With the .3% decrease in the overall passing percentage, Griffin High is now .03% away from taking Thomas High School's second place status on the district board.
 
 Old Board
 
-![alt text](Resources/old school comparison.PNG)
+![alt text](Resources/old_school_comparison.PNG)
 
 New Board
 
-![alt text](Resources/new school comparison.PNG)
+![alt text](Resources/new_school_comparison.PNG)
 
 * Substituting null values for the 9th grade in Thomas High School has had the following affects:
   * 9th grade in math and reading scores by grade show as null
